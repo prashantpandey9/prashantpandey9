@@ -1,7 +1,5 @@
 ### Hi there 👋 It's Prashant 
 
-🔭 I’m currently working at WiseKreator on a project as an intern.
-
 🌱 I’m currently learning JS and React.
 
 💬 Ask me about anything.
@@ -12,3 +10,5 @@
 _________________________________________________________________
 
  ![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=prashantpandey9&show_icons=true&count_private=true&include_all_commits=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantpandey9&layout=compact)](https://github.com/prashantpandey9/)     
+
+🔭
