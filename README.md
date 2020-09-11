@@ -1,5 +1,5 @@
 ### Hi there 👋 It's Prashant 
-
+<img src="https://komarev.com/ghpvc/?username=prashantpandey9" alt="prashantpandey9" />
 🌱 I’m currently learning JS and React.
 
 💬 Ask me about anything.
