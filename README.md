@@ -1,5 +1,5 @@
 ### Hi there 👋 It's Prashant 
-<img src="https://komarev.com/ghpvc/?username=prashantpandey9" alt="prashantpandey9" />
+
 🌱 I’m currently learning JS and React.
 
 💬 Ask me about anything.
@@ -11,4 +11,4 @@ _________________________________________________________________
 
  ![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=prashantpandey9&show_icons=true&count_private=true&include_all_commits=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantpandey9&layout=compact)](https://github.com/prashantpandey9/)     
 
-🔭
+<img src="https://komarev.com/ghpvc/?username=prashantpandey9" alt="prashantpandey9" />
