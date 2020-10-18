@@ -1,8 +1,6 @@
 ### Hi there 👋 It's Prashant 
 
-🌱 I’m currently learning JS and React.
-
-💬 Ask me about anything.
+🌱 I’m currently Working on a project.
 
 📫 Reach me on:
 
