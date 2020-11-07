@@ -1,6 +1,6 @@
 ### Hi there 👋 It's Prashant 
 
-🌱 I’m currently Working on a project.
+🌱 I’m currently Learning about the material design.
 
 📫 Reach me on:
 
