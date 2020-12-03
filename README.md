@@ -3,10 +3,12 @@
 🌱 I’m currently Learning about the material design.
 
 📫 Reach me on:
-
-[![Twitter](https://img.shields.io/twitter/follow/Prashant8057152?style=social)](https://twitter.com/Prashant8057152/)  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/prashantpandey9/)](https://www.linkedin.com/in/prashantpandey9/) [![GitHub Prashant](https://img.shields.io/github/followers/prashantpandey9?label=follow&style=social)](https://github.com/prashantpandey9)
+<a href="https://dev.to/prashantpandey9">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Prashant Pandey's DEV Profile" height="30" width="30">
+</a>
+[![Twitter](https://img.shields.io/twitter/follow/Prashant8057152?style=social)](https://twitter.com/Prashant8057152/)  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/prashantpandey9/)](https://www.linkedin.com/in/prashantpandey9/) [![GitHub Prashant](https://img.shields.io/github/followers/prashantpandey9?label=follow&style=social)](https://github.com/prashantpandey9) 
 _________________________________________________________________
-<hr/>
+
 
 ### :newspaper: Blog Posts
 
