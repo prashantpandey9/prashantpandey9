@@ -1,6 +1,6 @@
 ### Hi there 👋 It's Prashant 
 
-🌱 I’m currently Learning about the material design.
+🌱 I’m currently Learning React-Native.
 
 📫 Reach me on:
 <a href="https://dev.to/prashantpandey9">
