@@ -1,7 +1,5 @@
 ### Hi there 👋 It's Prashant 
 
-🌱 
-
 📫 Reach me on:
 <a href="https://dev.to/prashantpandey9">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Prashant Pandey's DEV Profile" height="30" width="30">
