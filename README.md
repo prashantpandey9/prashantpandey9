@@ -1,15 +1,14 @@
 ### Hi there 👋 It's Prashant 
 
 📫 Reach me on:
-<a href="https://dev.to/prashantpandey9">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Prashant Pandey's DEV Profile" height="30" width="30">
+  [![Twitter](https://img.shields.io/twitter/follow/Prashant8057152?style=social)](https://twitter.com/Prashant8057152/)  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/prashantpandey9/)](https://www.linkedin.com/in/prashantpandey9/) [![GitHub Prashant](https://img.shields.io/github/followers/prashantpandey9?label=follow&style=social)](https://github.com/prashantpandey9)  <a href="https://dev.to/prashantpandey9">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Prashant Pandey's DEV Profile" height="25" width="25">
 </a>
-[![Twitter](https://img.shields.io/twitter/follow/Prashant8057152?style=social)](https://twitter.com/Prashant8057152/)  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/prashantpandey9/)](https://www.linkedin.com/in/prashantpandey9/) [![GitHub Prashant](https://img.shields.io/github/followers/prashantpandey9?label=follow&style=social)](https://github.com/prashantpandey9) 
 _________________________________________________________________
 
 
 ### :newspaper: Blog Posts
-
+- [Redux Concept](https://blog.prashantpandey.ml/blog/Redux/redux-concept/)
 - [How to get production access to AWS Simple E-mail Service
 ](https://blog.prashantpandey.ml/blog/AWS-SES/How%20to%20get%20production%20access%20to%20AWS%20Simple%20E-mail%20Service/)
 - [How to get Bluetooth headphones to work with Ubuntu.](https://blog.prashantpandey.ml/blog/blueman/blueman/)
