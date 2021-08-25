@@ -7,7 +7,7 @@
 _________________________________________________________________
 
 ### Checkout some of my frontend practice design:
-- [https://prashantpandey9.in/FrontendDesigns/](https://prashantpandey9.in/FrontendDesigns/) These designs are created using pure HTML, CSS. You can checkout and clone this [repo](https://github.com/prashantpandey9/FrontendDesigns) as per your need.
+- [FrontendDesigns/](https://prashantpandey9.in/FrontendDesigns/) These designs are created using pure HTML, CSS. You can checkout and clone this [repo](https://github.com/prashantpandey9/FrontendDesigns) as per your need.
 
 ### :newspaper: Blog Posts
 - [Redux Concept](https://blog.prashantpandey.ml/blog/Redux/redux-concept/)
