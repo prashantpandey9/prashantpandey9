@@ -6,6 +6,8 @@
 </a>
 _________________________________________________________________
 
+### Checkout some of my frontend practice design:
+- [https://prashantpandey9.in/FrontendDesigns/](https://prashantpandey9.in/FrontendDesigns/)
 
 ### :newspaper: Blog Posts
 - [Redux Concept](https://blog.prashantpandey.ml/blog/Redux/redux-concept/)
