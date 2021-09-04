@@ -10,11 +10,11 @@ _________________________________________________________________
 - [FrontendDesigns/](https://prashantpandey9.in/FrontendDesigns/) These designs are created using pure HTML, CSS. You can checkout and clone this [repo](https://github.com/prashantpandey9/FrontendDesigns) as per your need.
 
 ### :newspaper: Blog Posts
-- [Redux Concept](https://blog.prashantpandey.ml/blog/Redux/redux-concept/)
+- [Redux Concept](https://blog.prashantpandey9.in/blog/Redux/redux-concept/)
 - [How to get production access to AWS Simple E-mail Service
-](https://blog.prashantpandey.ml/blog/AWS-SES/How%20to%20get%20production%20access%20to%20AWS%20Simple%20E-mail%20Service/)
-- [How to get Bluetooth headphones to work with Ubuntu.](https://blog.prashantpandey.ml/blog/blueman/blueman/)
-- [Linux Story III](https://blog.prashantpandey.ml/blog/dualBoot/dualBoot/)
+](https://blog.prashantpandey9.in/blog/AWS-SES/How%20to%20get%20production%20access%20to%20AWS%20Simple%20E-mail%20Service/)
+- [How to get Bluetooth headphones to work with Ubuntu.](https://blog.prashantpandey9.in/blog/blueman/blueman/)
+- [Linux Story III](https://blog.prashantpandey9.in/blog/dualBoot/dualBoot/)
 
 <hr/>
 
