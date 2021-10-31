@@ -7,7 +7,10 @@
 _________________________________________________________________
 
 ### Checkout some of my frontend practice design:
-- [FrontendDesigns/](https://prashantpandey9.in/FrontendDesigns/) These designs are created using pure HTML, CSS. You can checkout and clone this [repo](https://github.com/prashantpandey9/FrontendDesigns) as per your need.
+- [FrontendDesigns](https://prashantpandey9.in/FrontendDesigns/) -These designs are created using pure HTML, CSS. You can checkout and clone this [repo](https://github.com/prashantpandey9/FrontendDesigns) as per your need.
+- [Chat Dashboard](https://chatapp.prashantpandey9.in/) -You can add your own feature by forking this [repo](https://github.com/prashantpandey9/Bot).
+- [Chat Bot Mobile](https://prashantpandey9.in/chat-bot-ui/) - This design is created using pure HTML, CSS only. Checkout [repo](https://github.com/prashantpandey9/chat-bot-ui)
+- [Covid Help Dashboard](http://ukcovid.prashantpandey9.in/)
 
 ### :newspaper: Blog Posts
 - [Redux Concept](https://blog.prashantpandey9.in/blog/Redux/redux-concept/)
