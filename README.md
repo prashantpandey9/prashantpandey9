@@ -20,6 +20,7 @@ _________________________________________________________________
 - [FrontendDesigns](https://prashantpandey9.in/FrontendDesigns/) -These designs are created using pure HTML, CSS. You can checkout and clone this [code](https://github.com/prashantpandey9/FrontendDesigns) as per your need.
 - [Chat Dashboard Web](https://chatapp.prashantpandey9.in/) -You can add your own feature by forking this [code](https://github.com/prashantpandey9/Bot).
 - [Chat Bot Mobile](https://prashantpandey9.in/chat-bot-ui/) - This design is created using pure HTML, CSS only. Checkout [code](https://github.com/prashantpandey9/chat-bot-ui)
+- [IEEE KEC](https://ieeebtkit.github.io/) - Static website for college. Checkout [here](https://github.com/prashantpandey9/ieeebtkit.github.io).
 
 ### Full Stack projects that you might be interested in:
 - [Covid Help Dashboard](http://ukcovid.prashantpandey9.in/) - Tailwind CSS and Material Design Theme for Frontend. Also Checkout code [here](https://github.com/kecians).
