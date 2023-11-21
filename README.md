@@ -1,16 +1,30 @@
 ### Hi there 👋 It's Prashant 
- 
-📫 If need help or for colloboration reach me on:
+- Currently working with [@simfoni](http://simfoni.com/) since 2022-.
+- I am currently working on 🕸️, mostly using Python, Javascript.
+- 📫 If need help or for colloboration reach me on:
   [![Twitter](https://img.shields.io/twitter/follow/ppprashant9?style=social)](https://twitter.com/ppprashant9)  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/prashantpandey9/)](https://www.linkedin.com/in/prashantpandey9/) [![GitHub Prashant](https://img.shields.io/github/followers/prashantpandey9?label=follow&style=social)](https://github.com/prashantpandey9)  <a href="https://dev.to/prashantpandey9">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Prashant Pandey's DEV Profile" height="25" width="25">
 </a>
-_________________________________________________________________
 
-### Checkout some of my frontend practice design:
-- [FrontendDesigns](https://prashantpandey9.in/FrontendDesigns/) -These designs are created using pure HTML, CSS. You can checkout and clone this [repo](https://github.com/prashantpandey9/FrontendDesigns) as per your need.
-- [Chat Dashboard](https://chatapp.prashantpandey9.in/) -You can add your own feature by forking this [repo](https://github.com/prashantpandey9/Bot).
-- [Chat Bot Mobile](https://prashantpandey9.in/chat-bot-ui/) - This design is created using pure HTML, CSS only. Checkout [repo](https://github.com/prashantpandey9/chat-bot-ui)
-- [Covid Help Dashboard](http://ukcovid.prashantpandey9.in/)
+_________________________________________________________________
+# My work
+### Checkout my open source work:
+- [GNU Mailman/HyperKitty](https://list.org/) -
+   - Contributed to [hyperkitty](https://docs.mailman3.org/projects/hyperkitty/en/latest/) as a side work.
+   - Checkout my work [here](https://gitlab.com/mailman/hyperkitty/-/merge_requests?scope=all&state=all&author_username=prashantpandey9) to Mailman/Hyperkitty module.
+- [Kubernetes/Website](https://kubernetes.io/)
+  - Helped Kubernetes for their translation of website.
+  - Checkout my work [here](https://github.com/kubernetes/website/pulls?q=is%3apr+author%3aprashantpandey9).
+
+### Checkout some of my frontend designs:
+- [FrontendDesigns](https://prashantpandey9.in/FrontendDesigns/) -These designs are created using pure HTML, CSS. You can checkout and clone this [code](https://github.com/prashantpandey9/FrontendDesigns) as per your need.
+- [Chat Dashboard Web](https://chatapp.prashantpandey9.in/) -You can add your own feature by forking this [code](https://github.com/prashantpandey9/Bot).
+- [Chat Bot Mobile](https://prashantpandey9.in/chat-bot-ui/) - This design is created using pure HTML, CSS only. Checkout [code](https://github.com/prashantpandey9/chat-bot-ui)
+
+### Full Stack projects that you might be interested in:
+- [Covid Help Dashboard](http://ukcovid.prashantpandey9.in/) - Tailwind CSS and Material Design Theme for Frontend. Also Checkout code [here](https://github.com/kecians).
+- [Online learning platform](https://recreatly.prashantpandey9.in/) - React js based frontend with a Django-powered backend with several admin functionality. Also Checkout code here: [frontend](https://github.com/prashantpandey9/yoga) [Backend](https://github.com/prashantpandey9/recreate).
+- Advertisement Website - React js based frontend designed by me with a Ruby on Rails powered backend. [Code](https://github.com/prashantpandey9/advertisement)
 
 ### :newspaper: Blog Posts
 - [Redux Concept](https://blog.prashantpandey9.in/blog/Redux/redux-concept/)
