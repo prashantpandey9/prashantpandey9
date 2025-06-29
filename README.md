@@ -2,7 +2,7 @@
 - Currently working with [@razorpay](https://razorpay.com/) since Feb 2025-present.
 - I am currently working on 🕸️, mostly using Python, Javascript.
 - 📫 If need help or for colloboration reach me on:
-  [![Twitter](https://img.shields.io/twitter/follow/ppprashant9?style=social)](https://twitter.com/ppprashant9)  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/prashantpandey9/)](https://www.linkedin.com/in/prashantpandey9/) [![GitHub Prashant](https://img.shields.io/github/followers/prashantpandey9?label=follow&style=social)](https://github.com/prashantpandey9)  <a href="https://dev.to/prashantpandey9">
+  [![Twitter](https://img.shields.io/twitter/follow/ppprashant9?style=social)](https://twitter.com/ppprashant9)  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/prashantpandey99/)](https://www.linkedin.com/in/prashantpandey99/) [![GitHub Prashant](https://img.shields.io/github/followers/prashantpandey9?label=follow&style=social)](https://github.com/prashantpandey9)  <a href="https://dev.to/prashantpandey9">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Prashant Pandey's DEV Profile" height="25" width="25">
 </a>
 
